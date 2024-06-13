@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Papinho_V3</string>
+    <string name="register">Cadastrar</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="matricula">Matrícula</string>
+</resources>
